@@ -22,7 +22,7 @@ import { ProductListComponent } from './product-list/product-list.component';
   ],
   bootstrap: [
     AppComponent
-  ]
+  ]r
 })
 export class AppModule { }
 
